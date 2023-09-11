@@ -132,3 +132,4 @@ function createGround(){
       bg.velocityX = 0
     }
   }
+ 
